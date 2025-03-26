@@ -23,6 +23,8 @@ The University of Chicago
 ## Schedule
 
 ### Lecture 1 (March 25): Intro to probabilistic modeling and Bayesian statistics
-- Lecture materials: 
+- Reading / resources:
+    - Materials for L1 on the ``two-class problem'' for [STAT 348 (2021)](https://dynalist.io/d/ehiGZbaDzYG4q9tJvuCrag3U#z=Hu-cB8VnWnu5IXOgZ-3MaF6C)
+- Lecture notes: 
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_1.pdf)
 
