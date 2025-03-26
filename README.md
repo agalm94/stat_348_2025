@@ -23,5 +23,6 @@ The University of Chicago
 ## Schedule
 
 ### Lecture 1 (March 25): Intro to probabilistic modeling and Bayesian statistics
-   
+- Lecture materials: 
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_1.pdf)
 
