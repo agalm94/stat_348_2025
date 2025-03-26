@@ -17,7 +17,7 @@ The University of Chicago
 
 
 ## Assignments
-(Posted here) 
+(Will be posted here) 
 
 
 ## Schedule
