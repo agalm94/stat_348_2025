@@ -24,7 +24,7 @@ The University of Chicago
 
 ### Lecture 1 (March 25): Intro to probabilistic modeling and Bayesian statistics
 - Reading / resources:
-    - [Materials for L1](https://dynalist.io/d/ehiGZbaDzYG4q9tJvuCrag3U#z=Hu-cB8VnWnu5IXOgZ-3MaF6C) on the ``The Bayes Rule for the class problem'' from Mathew Stephens' STAT 348 (2021)
+    - [Materials for L1 ``The Bayes Rule for the class problem''](https://dynalist.io/d/ehiGZbaDzYG4q9tJvuCrag3U#z=Hu-cB8VnWnu5IXOgZ-3MaF6C) from Mathew Stephens' STAT 348 (2021)
 - Lecture notes: 
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_1.pdf)
 
