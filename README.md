@@ -33,5 +33,5 @@ The University of Chicago
     - [Chapter 2.2 "The meaning of probability"](https://www.inference.org.uk/itprnn/book.pdf) of David Mackay's _Information Theory, Inference, and Learning Algorithms_ (2003), on **frequentist versus subjectivist interpretations of probability**
     
 - Lecture notes: 
-    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_1.pdf)
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_1.pdf) (apologies for the handwriting)
 
