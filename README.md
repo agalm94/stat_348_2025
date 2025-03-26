@@ -23,7 +23,7 @@ The University of Chicago
 ## Schedule
 
 ### Lecture 1 (March 25): Intro to probabilistic modeling and Bayesian statistics
-- Reading / resources:
+- Reading / resources (optional; for reference):
     - [Materials for L1-L2](https://dynalist.io/d/ehiGZbaDzYG4q9tJvuCrag3U#z=Hu-cB8VnWnu5IXOgZ-3MaF6C) from Mathew Stephens' STAT 348 (2021) on **the two-class problem and decision theory** 
     - [Section 8.6](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) of Kevin Murphy's _Machine Learning: a Probabilistic Perspective_ (2012) on **generative vs discriminative classifiers**
     - [Section 3.5](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) of Kevin Murphy's _Machine Learning: a Probabilistic Perspective_ (2012) on **Naive Bayes classifiers**
