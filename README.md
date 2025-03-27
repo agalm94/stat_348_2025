@@ -41,6 +41,6 @@ The University of Chicago
     - [Jeffrey Miller's slides](https://jwmi.github.io/BMB/5-Bayesian-linear-regression.pdf) on **Bayesian linear regression**
     - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture01-bayes_normal.pdf) on **Bayesian analysis of Gaussian models**
     - ["Conjugate Bayesian analysis of the Gaussian distribution" by Murphy (2007)](https://www.cs.ubc.ca/~murphyk/Papers/bayesGauss.pdf)
-    - [Chapter 28 "Model Comparison and Occam’s Razor"](https://www.inference.org.uk/itprnn/book.pdf) of David Mackay's _Information Theory, Inference, and Learning Algorithms_ (2003), on **frequentist versus subjectivist interpretations of probability**
+    - [Chapter 28 "Model Comparison and Occam’s Razor"](https://www.inference.org.uk/itprnn/book.pdf) of David Mackay's _Information Theory, Inference, and Learning Algorithms_ (2003)
 - Lecture notes: 
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_2.pdf)
