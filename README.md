@@ -41,6 +41,7 @@ The University of Chicago
     - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture01-bayes_normal.pdf) on **Bayesian analysis of Gaussian models**
     - ["Conjugate Bayesian analysis of the Gaussian distribution" by Murphy (2007)](https://www.cs.ubc.ca/~murphyk/Papers/bayesGauss.pdf)
     - [Chapter 28 "Model Comparison and Occam’s Razor"](https://www.inference.org.uk/itprnn/book.pdf) of David Mackay's _Information Theory, Inference, and Learning Algorithms_ (2003)
+      
 - Lecture notes: 
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_2.pdf)
  
@@ -48,5 +49,6 @@ The University of Chicago
 - Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
     - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture01-bayes_normal.pdf) on **Bayesian analysis of Gaussian models**
     - [Chapter 5 "Hierarchical models"](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf) of Andrew Gelman et al.'s _Bayesian Data Analysis_
+      
 - Lecture notes: 
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_3.pdf)
