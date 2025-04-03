@@ -47,8 +47,21 @@ The University of Chicago
  
 ### Lecture 3 (April 1): Hierarchical models, Gaussian variance priors, preview to MCMC and PGMs
 - Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+    - [Materials for L4](https://dynalist.io/d/ehiGZbaDzYG4q9tJvuCrag3U#z=Hu-cB8VnWnu5IXOgZ-3MaF6C) from Mathew Stephens' STAT 348 (2021) on **shrinkage, empirical Bayes, the "Normal means" problem** 
     - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture01-bayes_normal.pdf) on **Bayesian analysis of Gaussian models**
     - [Chapter 5 "Hierarchical models"](https://sites.stat.columbia.edu/gelman/book/BDA3.pdf) of Andrew Gelman et al.'s _Bayesian Data Analysis_
       
 - Lecture notes: 
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_3.pdf)
+ 
+### Lecture 4 (April 3): Gibbs sampling and MCMC
+- Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+    - [Parts 1 and 2 of David Blei's lecture notes](https://www.cs.columbia.edu/~blei/fogm/2016F/doc/graphical-models.pdf) on the **basics of directed PGMs**
+    - Chapters 11.2-11.3 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) on **MCMC and Gibbs sampling**
+    - [Matthew Stephen's vignette](https://stephens999.github.io/fiveMinuteStats/gibbs1.html) on **Gibbs sampling**
+    - [Scott Linderman's slides]((https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture04_mcmc.pdf) on **MCMC**
+    - ["Getting it Right: Joint Distribution Tests of Posterior Simulators" by Geweke (2004)](http://qed.econ.queensu.ca/pub/faculty/ferrall/quant/papers/04_04_29_geweke.pdf) (the **the original Geweke testing paper**)
+    - [Roger Grosse's blogpost](https://lips.cs.princeton.edu/testing-mcmc-code-part-2-integration-tests/) on **Geweke testing**"
+      
+- Lecture notes: 
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_4.pdf)
