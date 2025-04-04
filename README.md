@@ -13,7 +13,7 @@ The University of Chicago
 - TA office hours (starting week of March 31): 
     - Jimmy: Fri 9-10am (Jones 304)
     - Sean: Wed 10-11am (Jones 304)
-    - Jinwen: Thu 12-1pm (Jones 304)
+    - Jinwen: Thu 11am-12pm (Jones 303)
 
 
 ## Assignments
