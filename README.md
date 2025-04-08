@@ -60,7 +60,7 @@ The University of Chicago
     - [Parts 1 and 2 of David Blei's lecture notes](https://www.cs.columbia.edu/~blei/fogm/2016F/doc/graphical-models.pdf) on the **basics of directed PGMs**
     - Chapters 11.2-11.3 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) on **MCMC and Gibbs sampling**
     - [Matthew Stephen's vignette](https://stephens999.github.io/fiveMinuteStats/gibbs1.html) on **Gibbs sampling**
-    - [Scott Linderman's slides]((https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture04_mcmc.pdf) on **MCMC**
+    - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture04_mcmc.pdf) on **MCMC**
     - ["Getting it Right: Joint Distribution Tests of Posterior Simulators" by Geweke (2004)](http://qed.econ.queensu.ca/pub/faculty/ferrall/quant/papers/04_04_29_geweke.pdf) (the **the original Geweke testing paper**)
     - [Roger Grosse's blogpost](https://lips.cs.princeton.edu/testing-mcmc-code-part-2-integration-tests/) on **Geweke testing**"
       
