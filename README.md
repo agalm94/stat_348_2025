@@ -83,7 +83,7 @@ The University of Chicago
 - Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
    - Chapter 9 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) on **mixture models and EM**
    - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture08-em.pdf) on **EM**
-   - Section 6.2.1 (and related sections) of ["Graphical models, exponential families, and variational inference" by Wainwright & Jordan (2008)] on **EM in exponential families**
+   - Section 6.2.1 (and related sections) of ["Graphical models, exponential families, and variational inference" by Wainwright & Jordan (2008)](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/reading/WainwrightJordan2008.pdf) on **EM in exponential families**
    - ["Homeomorphic-Invariance of EM..." by Kunstner et al. (2021)](https://proceedings.mlr.press/v130/kunstner21a/kunstner21a.pdf) on the **convergence properties of EM**
 
 - Lecture notes: 
