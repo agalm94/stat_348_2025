@@ -90,6 +90,14 @@ The University of Chicago
 - Lecture notes: 
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_6.pdf)
 
+### Lecture 7 (April 15): Inference and learning in Hidden Markov models (HMMs)
+- Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+   - Chapter 17 of Kevin Murphy's [_Machine Learning: a Probabilistic Perspective_](https://www.cs.ubc.ca/~murphyk/MLbook/pml-toc-1may12.pdf) (2012) on **Markov and hidden Markov models**
+   - [Scott Linderman's slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture13_hmms.pdf) on **HMMs**
+   - Chapter 15 "The Navy Searches" of [_The Theory That Would Not Die_](https://yalebooks.yale.edu/book/9780300188226/the-theory-that-would-not-die/) on **the search for the USS Scorpion**
+     
+- Lecture notes: 
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_7.pdf)
 
 
 
