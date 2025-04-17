@@ -99,6 +99,16 @@ The University of Chicago
 - Lecture notes: 
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_7.pdf)
 
+### Lecture 8 (April 17): Exact inference in discrete graphical models
+- Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+    - [David Blei's lecture notes](https://www.cs.columbia.edu/~blei/fogm/2016F/doc/graphical-models.pdf) on the **basics of directed and undirected PGMs**
+    - [David Blei's lecture notes](https://www.cs.columbia.edu/~blei/fogm/2016F/doc/graphical-models.pdf](https://www.cs.columbia.edu/~blei/fogm/2016F/doc/inference.pdf) on the **inference in PGMs**
+    - [Chapter 2 of Michael Jordan's lecture notes](https://people.cs.pitt.edu/~milos/courses/cs3750-Spring2020/Readings/Graphical_models/chapter2.pdf) on the **basics of directed and undirected PGMs**
+    - [Chapter 3 of Michael Jordan's lecture notes](https://people.cs.pitt.edu/~milos/courses/cs3750-Spring2020/Readings/Graphical_models/chapter3.pdf) on the **variable elimination algorithm**
+    - [Chapter 4 of Michael Jordan's lecture notes](https://people.cs.pitt.edu/~milos/courses/cs3750-Spring2020/Readings/Graphical_models/chapter4.pdf) on **sum-product and belief propagation**
+     
+- Lecture notes: 
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_8.pdf)
 
 
 
