@@ -110,6 +110,13 @@ The University of Chicago
 - Lecture notes: 
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_8.pdf)
 
-
-
+### Lecture 9 (April 22): Information theory
+- Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+   	- Chapter 14.3 of John Duchi's [lecture notes](https://anilkeshwani.github.io/files/John-Duchi-Statistics-311-Electrical-Engineering-377.pdf) on **exponential families as maximum entropy distributions**
+   	- Chapter 1 of David MacKay's [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf) (2005) on an **introduction to information theory**
+   	- Chapter 4 of David MacKay's [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf) (2005) on the **source coding theorem**
+    - James Gleick' [_The Information_](https://jarrettfuller.com/tech/downloads/The-Information.pdf) (2011); a fantastically enterataining general-audience book on the **.
+     
+- Lecture notes: 
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_8.pdf)
 
