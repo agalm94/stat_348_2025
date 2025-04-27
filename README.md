@@ -19,7 +19,8 @@ The University of Chicago
 ## Assignments
 - [Assignment 1: Bayesian linear regression](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw1/hw1.ipynb). Due **Sunday April 6 at 11:59pm** on GradeScope. 
 - [Assignment 2: Hierarchical models and Gibbs sampling](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw2/hw2.ipynb). Due **Sunday April 13 at 11:59pm** on GradeScope.
-- [Assignment 3: Mixture models and EM](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw3/hw3.ipynb). Due **Sunday April 20 at 11:59pm** on GradeScope. 
+- [Assignment 3: Mixture models and EM](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw3/hw3.ipynb). Due **Sunday April 20 at 11:59pm** on GradeScope.
+- [Assignment 4: HMMs and the sum-product algorithm](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw4/hw4.ipynb). Due **Sunday May 4 at 11:59pm** on GradeScope. 
 
 ## Schedule
 
