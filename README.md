@@ -113,11 +113,22 @@ The University of Chicago
 
 ### Lecture 9 (April 22): Information theory
 - Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
-   	- Chapter 14.3 of John Duchi's [lecture notes](https://anilkeshwani.github.io/files/John-Duchi-Statistics-311-Electrical-Engineering-377.pdf) on **exponential families as maximum entropy distributions**
    	- Chapter 1 of David MacKay's [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf) (2005) on an **intro to information theory**
    	- Chapter 4 of David MacKay's [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf) (2005) on the **source coding theorem**
     - James Gleick' [_The Information_](https://jarrettfuller.com/tech/downloads/The-Information.pdf) (2011); a fantastically entertaining general-audience book on the **the history / context of information theory**.
      
 - Lecture notes: 
-    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_8.pdf)
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_9.pdf)
+ 
+### Lecture 10 (April 29): Information theory (cont.); intro to variational inference
+- Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+   	- Chapter 8 of David MacKay's [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf) (2005) on **mutual information**
+   	- Chapter 28.3 of David MacKay's [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf) (2005) on the **minimum description length**
+    - Chapter 14.3 of John Duchi's [lecture notes](https://anilkeshwani.github.io/files/John-Duchi-Statistics-311-Electrical-Engineering-377.pdf) on **exponential families as maximum entropy distributions**
+    - [David Blei's lectures notes](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf) on **variational inference**
+    - Chapters 10.1-10.4 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) on **variational inference**
+   
+- Lecture notes:
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_9.pdf) (from last time)
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_10.pdf)
 
