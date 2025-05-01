@@ -126,9 +126,21 @@ The University of Chicago
    	- Chapter 28.3 of David MacKay's [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf) (2005) on the **minimum description length**
     - Chapter 14.3 of John Duchi's [lecture notes](https://anilkeshwani.github.io/files/John-Duchi-Statistics-311-Electrical-Engineering-377.pdf) on **exponential families as maximum entropy distributions**
     - [David Blei's lectures notes](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf) on **variational inference**
-    - Chapters 10.1-10.4 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) on **variational inference**
    
 - Lecture notes:
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_9.pdf) (from last time)
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_10.pdf)
+ 
+### Lecture 11 (May 1): Coordinate ascent variational inference (CAVI) and latent Dirichlet allocation (LDA)
+- Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
+    - ["Latent Dirichlet Allocation" by Blei, Ng, Jordan (2003)](https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf) **the original LDA paper**
+    - ["Inference of Population Structure Using Multilocus Genotype Data" by Pritchard, Stephens, Donnelly (2000)](https://academic.oup.com/genetics/article/155/2/945/6048111) **the other original LDA paper**
+    - Chapters 10.1-10.4 of Bishop (2006) [_Pattern Recognition and Machine Learning_](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) on **variational inference**
+    - [David Blei's lectures notes](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf) on **variational inference**
+    - ["Variational inference: A review for statisticians" by Blei, Kucukelbir & McAuliffe (2017)](http://www.cs.columbia.edu/~blei/fogm/2018F/materials/BleiKucukelbirMcAuliffe2017.pdf) **an excellent review paper on VI**
+    - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture09-lda_cavi.pdf) on **CAVI for LDA**
+    - Jeffrey Miller's [slides](https://jwmi.github.io/BMB/12-Variational-inference-and-LDA.pdf) on **CAVI for LDA**
+   
+- Lecture notes:
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_11.pdf)
 
