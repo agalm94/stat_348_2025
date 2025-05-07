@@ -143,8 +143,8 @@ The University of Chicago
 
 ### Lecture 12 (May 6): Poisson matrix factorization, data augmentation, stochastic variational inference (SVI)
 - Reading / resources:
-    - Blei, Kucukelbir & McAuliffe (2017) ["Variational inference: A review for statisticians"](http://www.cs.columbia.edu/~blei/fogm/2018F/materials/BleiKucukelbirMcAuliffe2017.pdf) **an excellent review paper on VI and SVI**
-    - Slides from [STAT 451](https://github.com/aschein/stat_451/blob/main/materials/lecture_2.pdf) on **CAVI and SVI**
+    - ["Variational inference: A review for statisticians" by Blei, Kucukelbir & McAuliffe (2017) ](http://www.cs.columbia.edu/~blei/fogm/2018F/materials/BleiKucukelbirMcAuliffe2017.pdf) **an excellent review paper on VI and SVI**
+    - [Slides from STAT 451](https://github.com/aschein/stat_451/blob/main/materials/lecture_2.pdf) on **CAVI and SVI**
     - ["Scalable Recommendation with Poisson factorization" by Gopalan et al. (2014)](https://arxiv.org/pdf/1311.1704) **Poisson MF for recommendation**
     - ["Cookbook-based Scalable Music Tagging with Poisson Matrix Factorization" by Liang, Paisley & Ellis (2014)](https://archives.ismir.net/ismir2014/paper/000363.pdf) **great example of CAVI/SVI for Poisson MF**
     - ["On the Connection Between Non-Negative Matrix Factorization and Latent Dirichlet Allocation" by Geiger (2024)](https://arxiv.org/html/2405.20542v1) **on the connection**
