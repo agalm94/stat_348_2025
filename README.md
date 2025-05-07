@@ -141,6 +141,9 @@ The University of Chicago
     - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture09-lda_cavi.pdf) on **CAVI for LDA**
     - Jeffrey Miller's [slides](https://jwmi.github.io/BMB/12-Variational-inference-and-LDA.pdf) on **CAVI for LDA**
 
+  - Lecture notes:
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_11.pdf) (**updated**)
+
 ### Lecture 12 (May 6): Poisson matrix factorization, data augmentation, stochastic variational inference (SVI)
 - Reading / resources:
     - ["Variational inference: A review for statisticians" by Blei, Kucukelbir & McAuliffe (2017) ](http://www.cs.columbia.edu/~blei/fogm/2018F/materials/BleiKucukelbirMcAuliffe2017.pdf) **an excellent review paper on VI and SVI**
