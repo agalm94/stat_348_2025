@@ -163,7 +163,7 @@ The University of Chicago
     - ["The ALL0CORE Tensor Decomposition..." by Hood & Schein (2024)](https://proceedings.mlr.press/v238/hood24a/hood24a.pdf) **the central paper of the talk; see references therein**
    
 - Slides:
-    - [Slides on research talk](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/slides/all0core_slides)
+    - [Slides on research talk](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/slides/all0core_slides.pdf)
 
 ### Lecture 14 (May 13): Variational autoencoders (VAEs) and amortized VI
 - Reading / resources:
