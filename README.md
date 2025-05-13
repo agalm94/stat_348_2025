@@ -165,4 +165,17 @@ The University of Chicago
 - Slides:
     - [Slides on research talk](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/slides/all0core_slides)
 
-
+### Lecture 14 (May 13): Variational autoencoders (VAEs) and amortized VI
+- Reading / resources:
+    - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture11-12-vaes.pdf) on **VAEs and amortized VI**
+    - Scott Linderman's [slides](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture05-continuous_lvms.pdf) on **PCA and connection to VAEs**
+    - ["Auto-Encoding Variational Bayes" by Kingma & Welling (2014)](https://arxiv.org/pdf/1312.6114) **one of the two original VAE papers**
+    - ["Stochastic Backpropagation and Approximate Inference in Deep Generative Models" by Rezende et al. (2014)](https://arxiv.org/abs/1401.4082) **one of the two original VAE papers**
+    - ["Advances in Variational Inference" by Zhang et al. (2019)](https://ieeexplore.ieee.org/document/8588399) **excellent survey of modern VI**
+    - ["Inference Suboptimality in VAEs" by Cremer et al. (2018)](https://arxiv.org/pdf/1801.03558) **on the amortization gap**
+    - ["Amortized Variational Inference: When and Why?" by Margossian & Blei (2024)](https://arxiv.org/pdf/2307.11018) **on the amortization gap**
+    - ["Backprop is not just the chain rule" by Tim Vieira](https://timvieira.github.io/blog/post/2017/08/18/backprop-is-not-just-the-chain-rule/) **famous blogpost on backprop**
+    - ["Lossless compression with latent variable models using bits-back coding" by Brian Keng](https://bjlkeng.io/posts/lossless-compression-with-latent-variable-models-using-bits-back-coding/) **blogpost explaining the "bits-back" argument**
+   
+- Lecture notes:
+    - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_14.pdf)
