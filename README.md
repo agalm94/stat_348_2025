@@ -157,3 +157,12 @@ The University of Chicago
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_11.pdf) (from last time; **updated**)
     - [iPad notes](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/ipad_notes/lecture_12.pdf)
 
+### Lecture 13 (May 8): Tensor decomposition, research talk on modeling international relations data
+- Reading / resources:
+    - Chapters 1, 4, 9 of Ballard & Kolda's [_Tensor Decompositions for Data Science_](https://www.mathsci.ai/post/tensor-textbook/) (2024) **great intro / reference for tensor decomposition**
+    - ["The ALL0CORE Tensor Decomposition..." by Hood & Schein (2024)](https://proceedings.mlr.press/v238/hood24a/hood24a.pdf) **the central paper of the talk; see references therein**
+   
+- Slides:
+    - [Slides on research talk](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/slides/all0core_slides)
+
+
