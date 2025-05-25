@@ -197,3 +197,13 @@ The University of Chicago
 
 - Lecture materials:
     - [Slides](https://github.com/aschein/stat_348_2025/blob/main/lecture_materials/slides/lecture_16_diffusion.pdf)
+ 
+### Lecture 17 (May 22): LLMs, measurement, ideal point modeling
+- Reading / resources:
+    - ["The illustrated transformer by Alammar (2025)](https://jalammar.github.io/illustrated-transformer/) **friendly overview of transformer architecture**
+    - ["Understanding and Coding the Self-Attention Mechanism..." by Raschka (2023)](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) **friendly walkthrough of self-attention**
+    - ["A mathematical framework for transformer circuits" by Elhage et al. (2021)](https://transformer-circuits.pub/2021/framework/index.html) **excellent formal introduction to transformers**
+    - ["Whose Opinions Do Language Models Reflect?" by Santurkar et al. (2023)](https://arxiv.org/abs/2303.17548) on **the political biases of LLMs**
+    - ["Measurent in the age of LLMs..." by Hood & Schein (2023)](https://arxiv.org/abs/2312.09203) on **using LLMs to measure ideology**
+    - ["Linear representations of political perspective..." by Kim et al. (2025)](https://arxiv.org/abs/2503.02080) on **probing LLMs for ideology**
+    - ["Text-based ideal points" by Vafa et al. (2020)](https://aclanthology.org/2020.acl-main.475.pdf) on **ideal point modeling**
