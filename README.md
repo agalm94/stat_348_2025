@@ -126,7 +126,7 @@ The University of Chicago
 - Reading / resources (optional; for reference) roughly in the order as they appeared in lecture:
    	- Chapter 8 of David MacKay's [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf) (2005) on **mutual information**
    	- Chapter 28.3 of David MacKay's [_Information Theory, Inference, and Learning Algorithms_](https://www.inference.org.uk/itprnn/book.pdf) (2005) on the **minimum description length**
-    - Chapter 14.3 of John Duchi's [Lecture materials](https://anilkeshwani.github.io/files/John-Duchi-Statistics-311-Electrical-Engineering-377.pdf) on **exponential families as maximum entropy distributions**
+    - Chapter 14.3 of John Duchi's [lecture materials](https://www.snn.ru.nl/~bertk/machinelearning/exponential_families.pdf) on **exponential families as maximum entropy distributions**
     - [David Blei's lectures notes](https://www.cs.princeton.edu/courses/archive/fall11/cos597C/lectures/variational-inference-i.pdf) on **variational inference**
    
 - Lecture materials:
