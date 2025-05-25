@@ -184,6 +184,6 @@ The University of Chicago
 ### Lecture 15 (May 15): Black box VI and score function gradients (guest lecture by Jimmy Lederman)
 - Reading / resources:
     - Scott Linderman's [slides]([https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture11-12-vaes.pdf](https://github.com/slinderman/stats305c/blob/spring2023/slides/lecture11-advi.pdf)) on **gradient-based VI**
-    - ["Black box variational inference" by Ranganath et al. (2013)]([https://arxiv.org/abs/1401.4082](https://arxiv.org/abs/1401.0118)) **introduced VI with score function gradients**
+    - ["Black box variational inference" by Ranganath et al. (2013)](https://arxiv.org/abs/1401.0118) **introduced VI with score function gradients**
     - ["Advances in Variational Inference" by Zhang et al. (2019)](https://ieeexplore.ieee.org/document/8588399) **excellent survey of modern VI**
 
