@@ -22,7 +22,7 @@ The University of Chicago
 - [Assignment 3: Mixture models and EM](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw3/hw3.ipynb). Due **Sunday April 20 at 11:59pm** on GradeScope.
 - [Assignment 4: HMMs and the sum-product algorithm](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw4/hw4.ipynb). Due **Tuesday May 6 at 11:59pm** on GradeScope.
 - [Assignment 5: Poisson matrix factorization and CAVI](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw5/hw5.ipynb). Due **Wednesday May 14 at 11:59pm** on GradeScope.
-- [Assignment 6: Neural networks and variational autoencoders (VAESs)](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw6/hw6.ipynb). Due **Wednesday May 21 at 11:59pm** on GradeScope. 
+- [Assignment 6: Neural networks and variational autoencoders (VAEs)](https://github.com/aschein/stat_348_2025/blob/main/assignments/hw6/hw6.ipynb). Due **Wednesday May 21 at 11:59pm** on GradeScope. 
 
 ## Schedule
 
